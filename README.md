@@ -1,1 +1,0 @@
-# school-bar-management
